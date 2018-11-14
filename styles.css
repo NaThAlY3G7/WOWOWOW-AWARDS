@@ -1,0 +1,44 @@
+.white{
+    color:white;
+}
+body{
+    text-align:center;
+}
+
+body{
+    background-image:url(https://cdn5.vectorstock.com/i/1000x1000/07/69/colorful-gradient-background-blue-red-and-orange-vector-19120769.jpg);
+    background-repeat:no-repeat;
+    background-size:2500px;
+}
+ 
+
+img{
+    border-radius:20%;
+} 
+    
+body{
+font-family: 'Sigmar One', cursive;
+}
+.white{
+    color:white; font-family: 'Gloria Hallelujah', cursive;
+}
+
+.gold{
+    color:gold; font-family: 'Alfa Slab One', cursive;
+}
+
+.teal{
+    color:teal; 
+}
+
+.green{
+color:green;
+}
+
+.aqua{
+color:aqua;    
+}
+
+.purple{
+color:indigo; 
+}
